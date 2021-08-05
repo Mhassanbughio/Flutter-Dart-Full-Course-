@@ -10,3 +10,10 @@ main(){
   String name="Muhammad";
   print(name.toLowerCase());
 }
+
+################## Length Function 
+main(){
+  
+  String name=" MLSA ";
+    print(name.length);
+}
