@@ -46,3 +46,13 @@ main(){
   
   print(str1.replaceAll('Mlsa','MLSA MUET SZAB'));
 }
+
+####################. split Method 
+
+main(){
+  
+ String str1="Mlsa MUET SZAB";
+ //String str2="mlsa";
+  
+  print(str1.split(' '));
+}
