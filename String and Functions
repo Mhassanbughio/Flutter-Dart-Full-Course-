@@ -37,3 +37,12 @@ main(){
   print(str1.compareTo(str2));
 }
 
+
+#################### replaceAll 
+main(){
+  
+ String str1="Mlsa";
+ //String str2="mlsa";
+  
+  print(str1.replaceAll('Mlsa','MLSA MUET SZAB'));
+}
