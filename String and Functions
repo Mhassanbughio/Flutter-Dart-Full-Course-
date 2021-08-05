@@ -1,5 +1,5 @@
 /*String and Functions
- Contcatination with space 
+ Contcatination with space
  LowerCase
  UpperCase
  trim (left and right)
@@ -9,7 +9,7 @@
  Substing
 */
 
-
+################### Contcatination with space
 String name1="Muhammad";
   String lastname="Hassan";
   print(name1+' '+lastname);
