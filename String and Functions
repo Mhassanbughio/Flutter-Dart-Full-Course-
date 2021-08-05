@@ -1,3 +1,14 @@
+/*String and Functions
+ Contcatination with space 
+ LowerCase
+ UpperCase
+ trim (left and right)
+ replaceAll
+ compareTo
+ string to  Array by split 
+ Substing
+*/
+
 
 String name1="Muhammad";
   String lastname="Hassan";
