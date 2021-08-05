@@ -26,3 +26,14 @@ main(){
 
   print(istname.trim());
 }
+
+
+##################### compareTo when two string comapre to each other..
+main(){
+  
+ String str1="Mlsa";
+ String str2="Mlsa";
+  
+  print(str1.compareTo(str2));
+}
+
