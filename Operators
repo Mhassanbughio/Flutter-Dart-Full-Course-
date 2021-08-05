@@ -30,3 +30,15 @@ main(){
   print(a==b);
   
 }
+
+##########################  Test is is!
+main(){
+  
+ var a=15;
+ var b=10;
+  
+ print(a is int);
+ print(a is! int); 
+ print(a is String);
+ print(b is double);
+}
