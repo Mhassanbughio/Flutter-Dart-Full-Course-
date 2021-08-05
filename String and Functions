@@ -56,3 +56,14 @@ main(){
   
   print(str1.split(' '));
 }
+
+########################### substring
+
+main(){
+  
+ String str1="Mlsa MUET SZAB";
+ //String str2="mlsa";
+  
+  print(str1.substring(3,10));
+  
+}
