@@ -1,1 +1,5 @@
 
+String name1="Muhammad";
+  String lastname="Hassan";
+  print(name1+' '+lastname);
+}
