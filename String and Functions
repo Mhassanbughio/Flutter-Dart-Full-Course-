@@ -3,3 +3,10 @@ String name1="Muhammad";
   String lastname="Hassan";
   print(name1+' '+lastname);
 }
+
+########## lOWER CASE fUNCTION IN STRING 
+main(){
+  
+  String name="Muhammad";
+  print(name.toLowerCase());
+}
