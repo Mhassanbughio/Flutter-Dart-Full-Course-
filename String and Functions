@@ -17,3 +17,12 @@ main(){
   String name=" MLSA ";
     print(name.length);
 }
+
+
+################### trim function delete the extra space 
+main(){
+  
+ String istname="MLSAMUET";
+
+  print(istname.trim());
+}
