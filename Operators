@@ -78,8 +78,9 @@ main(){
   
   int x= 50;
   int y=60;
-  x+=10;
-  y=10+y;
+  x+=10;       //We Can Assign Value like this 
+  y=10+y;      //We Can Assign Value like this 
   print(x);
-  print(y);
+  print(y);    //Output will same in both conditions 
 }
+
