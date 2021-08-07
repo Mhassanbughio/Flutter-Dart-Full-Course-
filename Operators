@@ -73,3 +73,13 @@ main(){
 }
 
 ############################## Assignment Operator =
+
+main(){
+  
+  int x= 50;
+  int y=60;
+  x+=10;
+  y=10+y;
+  print(x);
+  print(y);
+}
