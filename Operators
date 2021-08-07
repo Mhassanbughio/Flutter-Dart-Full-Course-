@@ -1,5 +1,11 @@
 ##################### Arithmetic = , != , >,  < ,>=, <= 
+*Operators 
+ Arithmetic * +,- / ,* , % , ~/
+Relational  = , != , >,  < ,>=, <= 
+Test is is!
+Increment and Decrement ++ , -- 
 
+*/
 
 main(){
   
