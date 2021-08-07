@@ -62,3 +62,12 @@ main(){
   x++;
   print(x);   //Increament is before the print linr so output would be 16 now 
 }
+
+main(){
+  
+  int y=20;
+  int x=15;
+  x--;      
+  print(x);   // Decrement before print so output would be 14
+  print(y--); // Decrement after print so output would be same as intialize  
+}
