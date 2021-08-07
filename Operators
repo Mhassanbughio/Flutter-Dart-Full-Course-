@@ -55,3 +55,10 @@ main(){
   int x=15;
   print(x++); //No increament in print line
 }
+
+main(){
+  
+  int x=15;
+  x++;
+  print(x);   //Increament is before the print linr so output would be 16 now 
+}
