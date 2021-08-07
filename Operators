@@ -50,3 +50,8 @@ main(){
 }
 
 /*Increament and Decreament ++, --   
+main(){
+
+  int x=15;
+  print(x++); //No increament in print line
+}
