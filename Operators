@@ -85,3 +85,16 @@ main(){
 }
 
 #############################
+
+main(){
+  int a= 15;
+  int b=30;
+  
+  if(a==10 && b==30){
+    print("equal");
+  }
+    else{
+      print("not eqaul"); ///output
+}
+}
+
