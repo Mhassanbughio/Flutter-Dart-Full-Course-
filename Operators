@@ -125,3 +125,11 @@ if(x==10 || y==20)
     print("Not equal");
   }
 }
+
+main(){
+ 
+  int x=20;
+  int y=30;
+  
+ print(y>x?'Y is greter then x':'X is less then Y'); // OUTPUT retrun ist Codition becasuse our statment is corect
+ }
