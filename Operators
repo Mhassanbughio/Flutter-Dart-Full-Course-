@@ -150,3 +150,17 @@ main(){
   print(name.toLowerCase()..substring(10));
 
 }
+
+######################### Bitwise Operator
+128 64 32 16 8 4 2 1
+ 0   0  0  0  0 0 0 0
+ 0   0  0  0  0 0 0 0
+ */
+
+main(){
+  int x=5;
+  int y=7;
+  print(x & y);
+ 
+ }
+
