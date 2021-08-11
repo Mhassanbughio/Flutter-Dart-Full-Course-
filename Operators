@@ -193,6 +193,6 @@ main(){
 main(){
   int x=5;
   int y=7;
-  print(xy);
+  print(x>>y);
  
  }
