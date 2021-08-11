@@ -109,3 +109,19 @@ main(){
       print("not eqaul"); // not eqaul
       }
 }
+
+main(){
+ 
+  int x=20;
+  int y=30;
+  
+  print(!(x<y));
+  
+if(x==10 || y==20)
+{
+  print("equal"); // ouput will be equal
+}
+  else{
+    print("Not equal");
+  }
+}
