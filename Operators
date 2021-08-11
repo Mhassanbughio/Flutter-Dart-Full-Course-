@@ -126,6 +126,8 @@ if(x==10 || y==20)
   }
 }
 
+
+############################ Conditional Operator ? : ?? 
 main(){
  
   int x=20;
@@ -135,7 +137,7 @@ main(){
  }
 
 
-
+############################ Cascade Notation 
 main(){
  
  String name="MLSA MUET SZAB ";
