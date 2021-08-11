@@ -115,7 +115,7 @@ main(){
   int x=20;
   int y=30;
   
-  print(!(x<y));
+  print(!(x<y));   //output is flase so Not Operator return opposit value 
   
 if(x==10 || y==20)
 {
