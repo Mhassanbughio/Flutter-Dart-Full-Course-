@@ -1,1 +1,17 @@
+/* LOOPS
+ * FOR LOOP 
+ * WHILE LOOP
+ * DO WHILE LOOP
+ */
+ 
+main(){
+ 
+ for(int x=1; x<10; x++){. // initilize and condition and increament in one line 
+ if(x==6){
+   break;                  // Here if is used to break the loop 
+ }
+ print(x);
+ }
+ }
+
 
