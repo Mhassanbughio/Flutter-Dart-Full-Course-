@@ -180,3 +180,19 @@ main(){
   print(x & ~y); // output is 0
  
  }
+
+##############Left Shift 
+main(){
+  int x=5;
+  int y=7;
+  print(x<<y);
+ 
+ }
+
+############Right Shift 
+main(){
+  int x=5;
+  int y=7;
+  print(xy);
+ 
+ }
