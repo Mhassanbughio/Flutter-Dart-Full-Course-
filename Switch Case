@@ -1,0 +1,28 @@
+############## Switch Case
+
+main(){
+ 
+ String name="Pizza";
+ 
+ 
+  //sitch case Use for multiple Statments
+  
+  switch(name){
+  
+      case 'Drink':
+      print("Order N01");
+        break;
+  
+  case 'Pizza':
+      print("Order N02");
+      break;
+  
+  case 'Zinger':
+      print("OrderN03");
+      break;
+  
+  default:
+      print("Any else order");
+  }
+  
+}
