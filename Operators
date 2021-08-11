@@ -133,3 +133,18 @@ main(){
   
  print(y>x?'Y is greter then x':'X is less then Y'); // OUTPUT retrun ist Codition becasuse our statment is corect
  }
+
+
+
+main(){
+ 
+ String name="MLSA MUET SZAB ";
+ //print(name.toLowerCase());
+  //print(name.substring(3));
+  //print(name.trim());
+ 
+  // simple remove multiline of code 
+  
+  print(name.toLowerCase()..substring(10));
+
+}
