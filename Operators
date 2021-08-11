@@ -160,7 +160,14 @@ main(){
 main(){
   int x=5;
   int y=7;
-  print(x & y);
+  print(x & y);   // output is 5
  
  }
 
+
+main(){
+  int x=5;
+  int y=7;
+  print(x | y); //Output is 7
+ 
+ }
