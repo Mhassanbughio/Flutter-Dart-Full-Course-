@@ -3,3 +3,19 @@ if structure
 elseif structure
 else structure
 
+main(){
+ String name="Zinger";
+  
+  if(name=='Pizza'){
+    
+    print("Order 01");
+  }
+  else if(name=='Zinger'){
+    
+    print("Order 02");
+  }
+  else{
+    
+    print("Any thing else order");
+  }
+}
