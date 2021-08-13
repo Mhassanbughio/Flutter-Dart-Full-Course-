@@ -28,6 +28,9 @@ main(){
    }
  }
 
+The do…while loop is similar to the while loop except that the do...
+while loop doesn’t evaluate the condition for the first time the loop executes.
+
 ################################## Do While Loop 
 main(){
    int a=1;
