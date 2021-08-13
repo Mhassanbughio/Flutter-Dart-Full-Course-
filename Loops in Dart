@@ -14,7 +14,7 @@ main(){
  }
  }
 
-
+################################ While 
 main(){
     int y=1;
    while(y<=20){
@@ -24,4 +24,17 @@ main(){
      print(y);
      y++;
    }
+ }
+
+################################## Do While Loop 
+main(){
+   int a=1;
+   do{
+     if(a==5){
+       break;
+     }
+     print(a);
+     a++;
+     
+   }while(a<17);
  }
