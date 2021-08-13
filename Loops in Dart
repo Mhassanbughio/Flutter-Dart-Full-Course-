@@ -4,6 +4,13 @@
  * DO WHILE LOOP
  */
  
+ The for loop is an implementation of a definite loop. The for loop executes the code block for a specified number of times. 
+ It can be used to iterate over a fixed set of values, such as an array
+
+for…in Loop
+The for...in loop is used to loop through an object's properties.
+
+ ############################### For LOOP 
 main(){
  
  for(int x=1; x<10; x++){. // initilize and condition and increament in one line 
