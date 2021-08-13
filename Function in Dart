@@ -1,1 +1,16 @@
-
+/* Function Basic
+ * Function Define and Function call
+ * Function return and print
+ * Pratmeter Function
+ * optional
+ * Named Prameter 
+ */
+ 
+ #####################################  Function Define and Function call
+ main(){
+   
+      getNumber();
+}
+     getNumber(){
+   print("HELLO FLUTTER DEVELOPER");
+ }
