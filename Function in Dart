@@ -1,12 +1,13 @@
 /* Function Basic
  * Function Define and Function call
+   Function return
  * Function return and print
  * Pratmeter Function
  * optional
  * Named Prameter 
  */
  
- #####################################  Function Define and Function call
+ ##############################################  Function Define and Function call
  main(){
    
       getNumber();
@@ -14,3 +15,14 @@
      getNumber(){
    print("HELLO FLUTTER DEVELOPER");
  }
+
+##############################################  Function always return null
+
+main(){
+
+print(addnumber());
+}
+
+addnumber(){
+
+}
