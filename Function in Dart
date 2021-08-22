@@ -26,3 +26,18 @@ print(addnumber());
 addnumber(){
 
 }
+
+main(){
+   
+   var x=getnumber(10,20);
+   getnumber(30,40);
+    print(x*2);
+ }
+
+getnumber(double a, int b){
+  print(a*b);   //print
+ return a*b;   //Return type Function
+
+}
+
+  
