@@ -1,1 +1,28 @@
 
+--collection
+ *  1 List
+ *    -Fixed List
+ *    -Growable 
+ * 2 set 
+ * 3 Map
+ */
+
+main(){
+ var num=List<int>.filled(4,0);
+  
+  num[0]=10;
+  num[1]=20;
+  num[2]=30;
+  num[3]=40;
+  /*print(num[0]);
+  print(num[1]);
+  print(num[2]);
+  print(num[3]);
+  
+  for(int y in num){ //for in LOOP 
+    
+    print(y);
+  }*/
+  
+  num.forEach((x)=>print(x)); // For Each Loop
+}
