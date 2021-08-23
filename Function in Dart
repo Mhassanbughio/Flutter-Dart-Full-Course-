@@ -76,3 +76,19 @@ multnumber(int a,[int b=10]){   //output will 40 beacuse when function it self i
  
   
 }
+
+##############################################. Named Prameter 
+
+main(){
+   
+ multnumber(30,y:20,z:10);
+ 
+ }
+
+multnumber(int a,{y,z}){ // Order does not matter here in named parameter just wrap the assign value 
+ 
+ print(a);
+ print(y);
+ print(z);
+  
+}
