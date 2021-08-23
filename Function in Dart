@@ -63,3 +63,16 @@ main(){
 
 getnumber(double a, int b) => (a*b)+10;
   
+##############################################  optional perameter
+
+main(){
+   
+ multnumber(30);
+ 
+ }
+
+multnumber(int a,[int b=10]){   //output will 40 beacuse when function it self it will take opetional parameter instead of not defined paramter
+  print(a+b);
+ 
+  
+}
