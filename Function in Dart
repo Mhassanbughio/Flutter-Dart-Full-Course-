@@ -26,7 +26,7 @@ print(addnumber());
 addnumber(){
 
 }
-
+############################################## print and Return type Function
 main(){
    
    var x=getnumber(10,20);
@@ -40,4 +40,15 @@ getnumber(double a, int b){
 
 }
 
-  
+############################################## perform other operations in function
+main(){
+   
+   var x=getnumber(10,20);
+    print(x*2);
+ }
+
+getnumber(double a, int b){
+  var y=(a*b)+10;
+   return y;
+
+}
