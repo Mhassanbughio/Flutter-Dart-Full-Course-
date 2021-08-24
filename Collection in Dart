@@ -26,3 +26,22 @@ main(){
   
   num.forEach((x)=>print(x)); // For Each Loop
 }
+
+
+main(){
+  var num=new List<int>.filled(5,0);
+  num[0]=5;
+  num[1]=10;
+  num[2]=15;
+  num[3]=20;
+  //print(num[2]);  
+  //print(num[4]);
+
+//for(int x=0; x<=num.length; x++){ //for loop 
+  
+  print(num[x]);
+}
+
+  //num.forEach((y)=>print(y));
+ 
+}
