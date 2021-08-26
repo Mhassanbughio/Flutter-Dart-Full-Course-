@@ -48,3 +48,27 @@ main(){
 }
 
 ################################################################### Drawable List 
+
+main(){
+  
+List num=[];
+  
+  num.add(10);
+  num.add(20);
+  num.add(30);
+  num.add(40);
+  num.add(50);
+  
+  print(num.length);
+  print(num);
+  
+  //num[2]=100;
+  num.remove(10);     // remove element just 
+  //num.removeAt(2);
+  print(num.length);
+  print(num);
+  
+  num.removeAt(2);    // revmove at indext postion 
+  print(num.length);  // Length of list 
+  print(num);         //print list
+}
