@@ -86,3 +86,24 @@ Set <int> snum=Set();
   
   
 }
+
+################################################################### SET in Dart
+
+Set <int> snum=Set.from([10,20,30,50]); // we add can value in set like this 
+  /* snum.add(10);                      // we add can value in set like this 
+  snum.add(20);
+  snum.add(30);
+  snum.add(40);
+   print(snum);
+  for(int y in snum){
+    print(y);
+  }*/
+  print(snum.length);    // Length Method
+  print(snum.isEmpty);   // is Empty Method 
+  snum.clear();            //Clear Method
+  print(snum.contains(20)); //Contains Method
+  for(int x in snum){       //for in loop
+    print(x);
+  }
+  //snum.forEach((x)=>print(x));      // for each LOOP
+}
