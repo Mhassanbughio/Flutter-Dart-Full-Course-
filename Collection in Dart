@@ -72,3 +72,17 @@ List num=[];
   print(num.length);  // Length of list 
   print(num);         //print list
 }
+
+################################################################### SET METHOD N01
+
+Set <int> snum=Set();
+  
+  
+  snum.add(10);
+  snum.add(20);
+  snum.add(30);
+  snum.add(40);
+   print(snum);
+  
+  
+}
