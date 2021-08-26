@@ -107,3 +107,17 @@ Set <int> snum=Set.from([10,20,30,50]); // we add can value in set like this
   }
   //snum.forEach((x)=>print(x));      // for each LOOP
 }
+
+################################################################### MAP in Dart
+
+main(){
+  
+//Map <String,String> mapnum=Map();
+ 
+  Map <String,String> mapnum={'Name':'Muhammad','City':'Hyderabad',  // here one string shows key and other for value 
+                              'Lead':'MLSA MUET SZAB'};
+  
+  mapnum['Developer']="Flutter";  //add method 
+  print(mapnum);
+    
+ }
