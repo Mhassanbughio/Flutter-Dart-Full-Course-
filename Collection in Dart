@@ -138,3 +138,18 @@ main(){
    print(key);
  } 
 }
+
+//////////////ForEACH loop 
+main(){
+  
+//Map<String,String> map.num=Map();
+  
+ Map <String,String> mapnum={'Name':'Hassan','MLSA':'LEAD'};
+  mapnum['Developer']='Flutter';
+  mapnum['GDG Pakistan']='Flutter Lead';
+  print(mapnum);
+  print(mapnum.length);
+  
+mapnum.forEach((key,value) => print(key+value));  
+   
+}
