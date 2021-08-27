@@ -27,4 +27,17 @@ main(){
     }
   }
 
+main(){
+
+  var obj=new student();
+  print(obj.name);
+  obj.fun1();
+  
+}
+  class student{
+    var name="Muhammad Hassan";
+    fun1(){
+      print("Hello Students");
+    }
+  }
 
