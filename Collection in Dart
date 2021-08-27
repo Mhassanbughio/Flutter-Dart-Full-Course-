@@ -121,3 +121,20 @@ main(){
   print(mapnum);
     
  }
+
+//////////////for in LOOP
+main(){
+  
+//Map <String,String> mapnum=Map();
+ 
+  Map <String,String> mapnum={'Name':'Muhammad','City':'Hyderabad',
+                              'Lead':'MLSA MUET SZAB'};
+  
+  mapnum['Developer']="Flutter";
+  //print(mapnum);
+  
+ for(String key in mapnum.values){                              //for in loop we can print only values or keys at time 
+   
+   print(key);
+ } 
+}
