@@ -41,3 +41,20 @@ main(){
     }
   }
 
+
+main(){
+
+  var obj1=new student();
+ obj1.name="Muhammad Hassan";
+  obj1.fun1();
+  var obj2=new student();
+  obj2.name="Flutter";
+  obj2.fun1();
+}
+
+  class student{
+    var name;
+    fun1(){
+      print("Hello "+name);
+    }
+  }
