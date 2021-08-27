@@ -1,1 +1,15 @@
+-constructor 
 
+***************************  Defualt Constructor 
+
+main(){
+var obj=new student();
+}
+
+class student{
+  
+  student(){
+    print("Dart");
+    
+  }
+}
