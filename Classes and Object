@@ -9,4 +9,9 @@ main(){
   obj.idfun1();
 }
 
-  
+  class student{
+    idfun1(){
+      print("Hello Students");
+    }
+  }
+
