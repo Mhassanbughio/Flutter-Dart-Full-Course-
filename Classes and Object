@@ -4,14 +4,27 @@
  * Object
  * */
 main(){
-
   var obj=new student();
   obj.idfun1();
 }
 
   class student{
-    idfun1(){
-      print("Hello Students");
+    idfun1(){.                  //function access through object  
+      print("Hello Students");  //// output is Hello Students 
     }
   }
+  
+  
+  main(){
+  var obj=new student();
+  print(obj.name);
+}
+
+  class student{
+    var name="Muhammad Hassan";  //var access through object 
+    fun1(){
+      print("Hello Students");  // output is Muhammaad Hassan
+    }
+  }
+
 
