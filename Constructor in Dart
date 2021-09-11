@@ -71,3 +71,23 @@ class stud{
  fun(){
    print("Hassan "+_name);   //This can be replace to undorsecore 
 }. }
+
+***************************  Peramterized Constructor
+
+main(){
+var obj=new stud("MLSA");
+  obj.fun();
+
+}
+class stud{
+  var name;
+  stud(this.name){.  //we can use this in the constructor
+ // this.name=name;
+    print("Hello"); 
+  }
+  fun(){
+    
+    print("Hassan "+name);
+}
+  
+}
