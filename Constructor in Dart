@@ -36,3 +36,10 @@ class student{
     print("Hassan ");
   }
 }
+
+***************************  Peramterized Constructor
+main(){
+var obj=new stud("MLSA");
+  obj.fun();
+
+}
