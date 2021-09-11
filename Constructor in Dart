@@ -56,8 +56,18 @@ fun(){
 }
   
 }
+***************************  Peramterized Constructor
 
 main(){
-var obj=new stud("MLSA");
+  var obj=new stud("MLSA");
   obj.fun();
-
+}
+class stud{
+  var _name;                 //This can be replace to undorsecore 
+  stud(name){
+  _name=name;                //This can be replace to undorsecore 
+   print("Hello");
+  }
+ fun(){
+   print("Hassan "+_name);   //This can be replace to undorsecore 
+}. }
