@@ -43,3 +43,10 @@ var obj=new stud("MLSA");
   obj.fun();
 
 }
+class stud{
+  var name;
+  stud(name){
+  this.name=name;
+    print("Hello");
+  }
+  
