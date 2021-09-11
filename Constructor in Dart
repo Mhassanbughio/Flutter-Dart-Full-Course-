@@ -17,3 +17,22 @@ class student{
     print("Flutter");
   }
 }
+***************************  Defualt Constructor 
+
+main(){
+var obj=new student();
+  obj.fun();
+  print(obj.name="MLSA");
+}
+
+class student{
+  var name;
+  student(){
+    print("Hello");
+  }
+
+  fun(){
+    
+    print("Hassan ");
+  }
+}
