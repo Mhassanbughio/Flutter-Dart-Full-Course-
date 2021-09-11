@@ -93,3 +93,18 @@ class stud{
 }
 
 ***************************  Named Constructor
+main(){
+var obj=new stud.myConstructor("MLSA MUET SZAB");
+  obj.fun();
+}
+class stud{
+  var name;
+  stud.myConstructor(this.name){
+    print("Hello");
+  }
+  fun(){
+    
+    print("Hassan "+name);
+}
+  
+}
