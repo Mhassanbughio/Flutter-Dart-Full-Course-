@@ -50,3 +50,9 @@ class stud{
     print("Hello");
   }
   
+fun(){
+    
+    print("Hassan "+name);
+}
+  
+}
