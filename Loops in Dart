@@ -17,7 +17,7 @@ main(){
  if(x==6){
    break;                  // Here if is used to break the loop 
  }
- print(x);
+ print(x);              //print value
  }
  }
 
