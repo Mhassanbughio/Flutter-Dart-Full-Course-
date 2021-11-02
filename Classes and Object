@@ -8,7 +8,7 @@ main(){
   obj.idfun1();
 }
 
-  class student{
+  class student{                 //Simple Student Class
     idfun1(){.                  //function access through object  
       print("Hello Students");  //// output is Hello Students 
     }
