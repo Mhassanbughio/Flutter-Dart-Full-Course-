@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+
+
+void main() {
+  runApp(MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: "My Flutter app",
+      home: Scaffold(
+        appBar: AppBar(title: Text("My flutter app")),
+        body: Material(
+          color: Colors.white,
+          child: Center(
+              child: Text(
+            "Hello Flutter Developers ",
+            textDirection: TextDirection.ltr,
+            style: TextStyle(color: Colors.blue, fontSize: 30.0),
+          )),
+        ),
+      )));
+}
