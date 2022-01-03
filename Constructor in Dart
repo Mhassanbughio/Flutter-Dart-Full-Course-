@@ -1,6 +1,6 @@
 -constructor 
 
-***************************  Defualt Constructor 
+****************************  Defualt Constructor 
 
 main(){
 var obj=new student();
